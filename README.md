@@ -1,4 +1,4 @@
-#Bug Avoider Arcade Game
+##Bug Avoider Arcade Game
 This is a clone of the classic arcade game
 ##References
 
